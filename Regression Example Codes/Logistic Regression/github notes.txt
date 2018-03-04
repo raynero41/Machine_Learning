@@ -1,0 +1,26 @@
+github
+control and track changes in software development
+
+Repositories - a project, a folder in your desktop 
+
+Create folders
+need a dummy file or document
+
+New File
+
+Clone this repository
+$ git pull origin master
+
+
+Create New Folder in Windows from Cloned Repository 
+and drop this file.
+
+To push change in github
+$ git add
+$ git commit -m "create"
+
+$ git push origin master
+
+Enter username/credentials
+
+Refresh Git Hub page and you will see the new folder
